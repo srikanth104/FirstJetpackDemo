@@ -83,7 +83,6 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
     }
 }
 
-
 @Preview(
     showBackground = true,
     showSystemUi = true
